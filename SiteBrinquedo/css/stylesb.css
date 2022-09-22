@@ -1,0 +1,90 @@
+
+header{
+    background: purple;
+    padding: 22px;
+    height: 100px;
+  }
+  
+  .logo{
+    width:259px;
+    height:80px;
+  }
+  .caixa{
+    width: 1080px;
+    position: relative;
+    margin: 0 auto;
+  }
+  nav {
+    position: absolute;
+    top: 30%;
+    right: 0px;
+  }
+  nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+  }
+  nav a {
+    text-transform: uppercase;
+    color: white;
+    font-weight: bold;
+    font-size: 19px;
+    text-decoration: none;
+  }
+  nav a:hover{
+    color: #C23350;
+    text-decoration: underline;
+  }
+
+#Boneco{
+    background-color: rgb(141, 30, 168); text-align: center; color: white;
+}
+
+#foot{
+    background-color: rgb(141, 30, 168);
+    color: white;
+
+}
+
+#carouselExampleDark img{ 
+    height: 500px;
+    width: 80%;
+    text-align: center;
+    margin:0 10% 0;
+
+}
+
+#carouselExampleDark{
+    background-color: white;
+}
+
+.bonc{
+    width: 1000px;
+    height: auto;
+    position: relative;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+.bonc li{
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 30px 10px;
+    box-sizing: border-box;
+    border: 2px solid purple;
+}
+
+.bonc img{
+    width: 30%;
+}
+
+h2{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#carouselExampleDark h5,p{
+  color: white;
+}
